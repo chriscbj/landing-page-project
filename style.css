@@ -28,4 +28,46 @@ ul{
 .hero-text{
     background-color: #1F2937;
     color: #F9FAF8;
+    display: flex;
+    align-items: flex-start;
+    height: 320px;
+}
+
+.right-img{
+    margin-right: 300px;
+    height: 200px;
+    width: 320px;
+    margin-top: 50px;
+}
+
+h1{
+    margin-left: auto;
+    font-size: 24px;
+}
+
+.left-side{
+    margin-left: 250px;
+    margin-right: auto;
+    display: flex;
+    width: 350px;
+    flex-wrap: wrap;
+}
+
+p{
+    margin-top: 0;
+}
+
+h2 {
+    margin-bottom: 0;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.sign-up {
+    color: white;
+    font-weight: bold;
+    background-color: #3882F6;
+    border-radius: 12px;
+    width: 80px;
+    padding: 4px;
 }
