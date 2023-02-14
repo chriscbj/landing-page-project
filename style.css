@@ -103,3 +103,28 @@ h2 {
     gap: 15px;
     border-radius: 30px;
 }
+
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 8%;
+}
+
+.inspiring {
+    width: 52%;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.thor {
+    margin-left: 500px;
+    font-weight: 900;
+    color: #1F2937;
+}
