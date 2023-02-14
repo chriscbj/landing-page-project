@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    margin: 0;
 }
 
 .header {
@@ -53,10 +54,6 @@ h1{
     flex-wrap: wrap;
 }
 
-p{
-    margin-top: 0;
-}
-
 h2 {
     margin-bottom: 0;
     font-size: 48px;
@@ -89,12 +86,12 @@ h2 {
 }
 
 .random-imgs p {
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 
 .box{
     width: 25%;
+    text-align: center;
 }
 
 .box img {
