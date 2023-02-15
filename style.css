@@ -36,8 +36,8 @@ ul{
 
 .right-img{
     margin-right: auto;
-    height: 180px;
-    width: 400px;
+    height: 60%;
+    width: 20%;
     margin-top: 50px;
 }
 
@@ -159,4 +159,14 @@ h2 {
 
 .bold-leftcta {
     font-weight: bolder;
+}
+
+.footer {
+    margin-top: auto;
+    background-color: #1F2937;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
 }
