@@ -125,3 +125,38 @@ h2 {
     font-weight: 900;
     color: #1F2937;
 }
+
+.cta-content{
+    background-color: #3882F6;
+    display: flex;
+    width: 65%;
+    justify-content: center;
+}
+
+.left-cta {
+    padding: 12px;
+    color: #F9FAF8;
+}
+
+.call-to-action{
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up-right{
+    border-radius: 10px;
+    border-color: #F9FAF8;
+    border-style: solid;
+    background-color: #3882F6;
+    padding: 5px;
+    color: #F9FAF8;
+    width: 80px;
+    align-self: center;
+    margin-left: 140px;
+}
+
+.bold-leftcta {
+    font-weight: bolder;
+}
